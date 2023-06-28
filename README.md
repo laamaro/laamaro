@@ -1,4 +1,12 @@
-### I'm Laura! 👋
+### Hi, I'm Laura! 👋
+--------------------------------------------------
+### 🌟 About Me
+- Full-Stack developer from Brazil 💻
+- Teacher at **Le Wagon** 👩‍🏫
+- Former Industrial Engineer ⚙
+- Loving to learn more about the wonder of the programming world 💕
+--------------------------------------
+### Skills
 
 <!--
 **laamaro/laamaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
