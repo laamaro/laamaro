@@ -4,16 +4,19 @@
 
 ---
 
-<img height="180px" align="right" src="https://media1.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=ecf05e47zz1mh6j1buftwi4i4axt53z18e6xyjd6rij628v8&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<div align="center">
+  <img height="180px" align="right" src="https://media1.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif?cid=ecf05e471vo8y9rc0xrvgy6xe424yo4l6vn21rr6i4uaedna&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  
+  
+  ### ✨ About Me
+   Full-Stack developer from Brazil 💻 <br>
+   Teacher at **Le Wagon** 👩‍🏫<br>
+   Developer at Northern Ventures 👩‍💻<br>
+   Former Industrial Engineer ⚙<br>
+   Loving to learn more about the wonders of the programming world 💕
+  <br>
+</div>
 
-
-### ✨ About Me
-- Full-Stack developer from Brazil 💻
-- Teacher at **Le Wagon** 👩‍🏫
-- Developer at Northern Ventures 👩‍💻
-- Former Industrial Engineer ⚙
-- Loving to learn more about the wonders of the programming world 💕
-<br>
 
 ---
 ### 🌱 Skills
@@ -28,6 +31,14 @@
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### 📩 Contact Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/laurabba"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:lauraamaro1804@gmail.com?subject=Hey%20Laura"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+-----
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laamaro&layout=compact&theme=onedark" alt="Laura's Top Languages">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=laamaro&show_icons=true&theme=onedark" alt="Laura's Github Stats">
@@ -43,9 +54,3 @@
 <br>
 <br>
 
-----
-### 📫 How to Reach Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/laurabba"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:lauraamaro1804@gmail.com?subject=Hey%20Laura"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
