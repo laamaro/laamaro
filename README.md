@@ -45,7 +45,7 @@
 -----
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laamaro&layout=compact&theme=onedark" alt="Laura's Top Languages">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=laamaro&show_icons=true&theme=onedark" alt="Laura's Github Stats">
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laamaro&layout=compact&theme=onedark" alt="Laura's Top Languages">
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=laamaro&show_icons=true&theme=onedark" alt="Laura's Github Stats">
 </p>
 
