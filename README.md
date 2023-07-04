@@ -27,25 +27,17 @@
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
----
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laamaro&layout=compact&theme=onedark" alt="Laura's Top Languages">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=laamaro&show_icons=true&theme=onedark" alt="Laura's Github Stats">
-</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ----
 ### 📫 How to Reach Me
 <p align="left">
   <a href="https://www.linkedin.com/in/laurabba"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:lauraamaro1804@gmail.com?subject=Hey%20Laura"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
+<p>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laamaro&layout=compact&theme=onedark" alt="Laura's Top Languages">
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=laamaro&show_icons=true&theme=onedark" alt="Laura's Github Stats">
 </p>
